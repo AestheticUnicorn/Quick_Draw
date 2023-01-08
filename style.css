@@ -1,0 +1,18 @@
+body{
+    background-color: pink;
+}
+#score{
+    font-size: 35px;
+    margin-right: 700px;
+}
+
+#timer{
+    font-size: 35px;
+    float: right;
+    margin-right: 100px;
+}
+
+#sketch_to_be_drawn{
+    font-size: 38px;
+    color:red
+}
